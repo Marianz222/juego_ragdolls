@@ -1,0 +1,43 @@
+﻿  Adjuntable.cpp
+  Arma.cpp
+  Enlace.cpp
+  Escena.cpp
+  FiguraVisual.cpp
+  GUIBoton.cpp
+  GUIPanel.cpp
+  GUITexto.cpp
+  GestorEscenas.cpp
+  Juego.cpp
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Juego.cpp(694,11): warning C4101: 'mundo_arma': variable local sin referencia
+  Menu.cpp
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Menu.cpp(146,18): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Menu.cpp(165,17): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+  Nivel.cpp
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Nivel.cpp(62,52): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Nivel.cpp(62,52): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Nivel.cpp(62,79): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Nivel.cpp(62,79): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Poligono.cpp
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,61): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,61): warning C4244:         with
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,61): warning C4244:         [
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,61): warning C4244:             T=float
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,61): warning C4244:         ]
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,61): warning C4244:         and
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,61): warning C4244:         [
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,61): warning C4244:             T=int
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,61): warning C4244:         ]
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,46): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,46): warning C4244:         with
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,46): warning C4244:         [
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,46): warning C4244:             T=float
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,46): warning C4244:         ]
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,46): warning C4244:         and
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,46): warning C4244:         [
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,46): warning C4244:             T=int
+D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\Poligono.cpp(92,46): warning C4244:         ]
+  PuntoControl.cpp
+  Ragdoll.cpp
+  main.cpp
+  Generando código...
+  JuegoRagdoll.vcxproj -> D:\Users\W10\VisualStudio_Projects\source\repos\MAV2\Trabajo Final\JuegoRagdoll\x64\Debug\JuegoRagdoll.exe
